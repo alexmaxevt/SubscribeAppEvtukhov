@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SubscribeApp</string>
+    <string name="app_title">Подписка</string>
+    <string name="app_user">Имя пользователя</string>
+    <string name="app_email">Электронная почта</string>
+    <string name="app_submit">OK</string>
+    <string name="app_reset">Очистить</string>
+    <string name="app_textPartOne">Подписка на рассылку успешно оформлена для пользователя \u0020</string>
+    <string name="app_textPartTwo">\u0020на электронный адрес\u0020</string>
+</resources>
